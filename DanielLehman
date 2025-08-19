@@ -1,0 +1,235 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BEWA Conference</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>BEWA Conference 2025</h1>
+    <nav>
+      <ul>
+        <li><a href="old-school.html">Old School Cases</a></li>
+        <li><a href="using-ai.html">Using AI</a></li>
+        <li><a href="globiz-education.html">Globiz Education</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Welcome to the BEWA Conference</h2>
+      <p>Explore resources, case studies, and tools designed to elevate your business education experience. Whether you're diving into classic cases or exploring AI-powered writing, this site is your launchpad.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 BEWA Conference. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+old-school.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Old School Cases</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Old School Case Studies</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="using-ai.html">Using AI</a></li>
+        <li><a href="globiz-education.html">Globiz Education</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Classic Cases</h2>
+      <p>These timeless case studies have shaped business education for decades. Use them to explore foundational strategies, leadership dilemmas, and market dynamics.</p>
+      <ul>
+        <li><a href="#">Harvard Business School: Southwest Airlines</a></li>
+        <li><a href="#">INSEAD: LVMH’s Global Expansion</a></li>
+        <li><a href="#">Wharton: Netflix’s Disruption Strategy</a></li>
+        <li><a href="#">IESE: Zara’s Supply Chain Advantage</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 BEWA Conference. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+using-ai.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Using AI for Case Writing</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Using AI for Case Writing</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="old-school.html">Old School Cases</a></li>
+        <li><a href="globiz-education.html">Globiz Education</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>AI-Powered Tools</h2>
+      <p>Modern business education is evolving, and AI is at the forefront. These tools can help educators and students craft compelling, data-driven case studies faster and more effectively.</p>
+      <ul>
+        <li><strong>Copilot for Case Writing:</strong> Generate outlines, prompts, and summaries</li>
+        <li><strong>ChatGPT:</strong> Explore strategic scenarios and stakeholder perspectives</li>
+        <li><strong>Grammarly & Quillbot:</strong> Polish language and improve clarity</li>
+        <li><strong>Canva & Figma:</strong> Design visuals and infographics for case presentations</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 BEWA Conference. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+globiz-education.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Globiz Education</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Globiz Education Resources</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="old-school.html">Old School Cases</a></li>
+        <li><a href="using-ai.html">Using AI</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Globiz Teaching Materials</h2>
+      <p>Globiz Education offers a suite of teaching materials designed to help instructors deliver engaging, globally relevant business lessons. These resources include:</p>
+      <ul>
+        <li><strong>Instructor Guides:</strong> Step-by-step teaching plans for each case</li>
+        <li><strong>Student Worksheets:</strong> Printable handouts for in-class activities</li>
+        <li><strong>Slide Decks:</strong> Editable presentations for lectures and discussions</li>
+        <li><strong>Assessment Rubrics:</strong> Tools for evaluating student performance</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 BEWA Conference. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+style.css
+/* BEWA Conference Site Styles */
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fdfdfd;
+  color: #1a1a1a;
+}
+
+header {
+  background-color: #002147; /* Navy */
+  color: #ffd700; /* Gold */
+  padding: 1rem;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+}
+
+nav a {
+  color: #ffd700;
+  text-decoration: none;
+}
+
+main {
+  padding: 2rem;
+}
+
+footer {
+  background-color: #002147;
+  color: #ffd700;
+  text-align: center;
+  padding: 1rem;
+}
+
+@media (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+README.md
+# BEWA Conference Website Setup Guide
+
+This guide will help you publish your BEWA Conference website using GitHub Pages.
+
+## 📦 Step 1: Unzip the Folder
+
+Unzip the downloaded folder to your computer. It contains all the necessary files:
+
+- `index.html`
+- `old-school.html`
+- `using-ai.html`
+- `globiz-education.html`
+- `style.css`
+- `README.md`
+
+## 🚀 Step 2: Create a GitHub Repository
+
+1. Go to [github.com](https://github.com) and sign in  
+2. Click the **+** icon in the top right and choose **New repository**  
+3. Name it `bewa-conference-site`  
+4. Choose **Public** and click **Create repository**
+
+## 📤 Step 3: Upload Your Files
+
+1. On your new repository page, click **Add file > Upload files**  
+2. Drag and drop all the files from the unzipped folder  
+3. Click **Commit changes**
+
+## 🌐 Step 4: Enable GitHub Pages
+
+1. Go to **Settings** > **Pages**  
+2. Under **Source**, choose `main` branch and `/root`  
+3. Click **Save**
+
+Your site will be live at:
+
+
+
